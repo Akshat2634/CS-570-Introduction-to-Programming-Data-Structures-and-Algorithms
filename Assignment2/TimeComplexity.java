@@ -2,7 +2,7 @@
 // CS570 - C
 import static java.lang.Math.log;
 
-public class TimeComplexity {
+public class Complexity {
     public static void method1(int n) { // O(n^2)
         int counter = 0;
         for (int i = 0; i < n; i++) {
